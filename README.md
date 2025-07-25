@@ -1,7 +1,7 @@
 # Hello < Developers/ >! 👋
 
-Hi! My name is Mashxur.  
-Thank you for visiting my GitHub profile! 😄
+Hey there! I'm Mashxur 👨‍💻  
+Glad to have you here – welcome to my little corner of the code world! 🚀
 
 ---
 
